@@ -1,4 +1,4 @@
 # Following files will be ignored, ignore everything
 *
 # but do not ignore .pl files
-!.pl
+!*.pl
